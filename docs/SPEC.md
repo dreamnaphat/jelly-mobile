@@ -101,7 +101,7 @@
 | แอป Android | Android ทั่วไป + Huawei EMUI | Kotlin + Jetpack Compose, sherpa-onnx, llama.cpp |
 | แอป HarmonyOS | Huawei HarmonyOS 5/6 | ArkTS + ArkUI, sherpa-onnx, Core Speech Kit |
 
-ทั้งสองแอปใช้โมเดลชุดเดียวกันและตัวกลางบนคลาวด์ตัวเดียวกัน โหมดออฟไลน์บน HarmonyOS ทำทีหลัง เพราะ llama.cpp ยังไม่มีเวอร์ชันทางการ
+ทั้งสองแอปใช้โมเดลชุดเดียวกันและตัวกลางบนคลาวด์ตัวเดียวกัน เครื่องทดสอบหลักของแอป HarmonyOS คือ Huawei Mate 80 Pro (HarmonyOS 6) โหมดออฟไลน์บน HarmonyOS ทำทีหลัง เพราะ llama.cpp ยังไม่มีเวอร์ชันทางการ
 
 ## 7. สเปกมือถือ
 
